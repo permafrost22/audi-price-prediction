@@ -85,6 +85,7 @@ print(df_sub.head(10))
 df_sub2 = pd.read_csv('predictions.csv')
 print(df_sub2)
 print("=" * 70)
+
     
 #criando grafico com matplot
 plt.figure(figsize=(8, 6))
